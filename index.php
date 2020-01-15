@@ -1,8 +1,9 @@
 <?php
-/**
+
+/*
  * Maureen Kariuki
  * 01/15/2020
- *
+ * /328/chicken/index.php
  */
 
  //Turn on error reporting -- this is critical
